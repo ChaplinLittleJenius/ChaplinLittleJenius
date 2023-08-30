@@ -1,16 +1,8 @@
 ## 个人简介
 
- -  Name：Chaplin
-  
- - 专业：网络工程
+ -  Name：Chaplin Chang
 
- -  学校：广东工业大学
-
- -  技术方向：Java后台开发
- 
- -  爱好：户外运动 看书
- 
- -  联系方式：842642386@qq.com
+ -  mail：chaplinz@foxmail.com
 🔭 I’m currently working on 玄武
 <!--
 **ChaplinLittleJenius/ChaplinLittleJenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
